@@ -55,7 +55,6 @@ Take the full tour in [Features](#-features), then set it up with [Agent workben
 
 **Qubee** (Multi-Agent Interactive Classroom) is an open-source AI platform that turns any topic or document into a rich, interactive classroom experience. Powered by multi-agent orchestration, it generates slides, quizzes, interactive simulations, and project-based learning activities — all delivered by AI teachers and AI classmates who can speak, draw on a whiteboard, and engage in real-time discussions with you. The built-in Qubee Skill works with [OpenClaw](https://github.com/openclaw/openclaw) as well as agent workbenches such as Codex, DeepSeek, and WorkBuddy, so you can generate classrooms from messaging apps like Feishu, Slack, or Telegram, or right inside your IDE.
 
-https://github.com/user-attachments/assets/8f3f1e5f-1468-4e93-8054-afeeea683a61
 
 ### Highlights
 
