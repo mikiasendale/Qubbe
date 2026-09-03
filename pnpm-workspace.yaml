@@ -1,0 +1,4 @@
+packages:
+  - "packages/*"
+  - "packages/@qubee/*"
+  - "!packages/docs" # standalone docs sub-app: own lockfile, build, deploy
